@@ -1,2 +1,3 @@
 # hello-world
-GitHub Tutorial
+
+Hello! My name is Sasha and I am learning how to use GitHub :)
